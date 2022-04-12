@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Yoshi",
+        "email": "eggboi@yoshi.net",
+        "password": "yolk1",
+        "dob": "March 11 1999",
+        "address": "Rainbow Road",
+        "description": "Little dino"
+    },
+    {
+        "name": "Mario",
+        "email": "itsame@mario.com",
+        "password": "mama-mia",
+        "dob": "March 17 1999",
+        "address": "1333 Big ol castle",
+        "description": "Red Clothed Hero"
+    },
+    {
+        "name": "Luigi",
+        "email": "weegee@weegee.com",
+        "password": "scaryghost7",
+        "dob": "March 18 1999",
+        "address": "1334 Little ol castle",
+        "description": "Scared moustache man"
+    },
+    {
+        "name": "Birdo",
+        "email": "spitta@birdie.com",
+        "password": "eggspitta8",
+        "dob": "March 21 1999",
+        "address": "1423 Mushroom Kingdom",
+        "description": "She spits eggs"
+    }
+
+]

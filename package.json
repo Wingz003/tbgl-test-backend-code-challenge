@@ -4,7 +4,8 @@
   "description": "Make sure you read the whole document carefully and follow the guidelines in it.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/index.js"
+    "start": "nodemon server/index.js",
+    "seed": "node seeders/seed.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Wingz003/tbgl-test-backend-code-challenge#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mongoose": "^6.2.10"
